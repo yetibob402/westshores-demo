@@ -1,0 +1,113 @@
+- document:
+  - link "https://www.westshoreslake.com/contact-us" [ref=e1]:
+    - /url: https://www.westshoreslake.com/contact-us
+  - link "https://www.westshoreslake.com/latest-news" [ref=e2]:
+    - /url: https://www.westshoreslake.com/latest-news
+  - link "https://www.westshoreslake.com/elections-voting-and-outcomes" [ref=e3]:
+    - /url: https://www.westshoreslake.com/elections-voting-and-outcomes
+  - link "https://www.westshoreslake.com/boating-1" [ref=e4]:
+    - /url: https://www.westshoreslake.com/boating-1
+  - link "https://www.westshoreslake.com/lake-habitat-committee" [ref=e5]:
+    - /url: https://www.westshoreslake.com/lake-habitat-committee
+  - link "https://www.westshoreslake.com/board-members" [ref=e6]:
+    - /url: https://www.westshoreslake.com/board-members
+  - link "https://www.westshoreslake.com/past-events" [ref=e7]:
+    - /url: https://www.westshoreslake.com/past-events
+  - link "https://www.westshoreslake.com/history" [ref=e8]:
+    - /url: https://www.westshoreslake.com/history
+  - link "https://www.westshoreslake.com/villaowners" [ref=e9]:
+    - /url: https://www.westshoreslake.com/villaowners
+  - link "https://www.westshoreslake.com/online-payments" [ref=e10]:
+    - /url: https://www.westshoreslake.com/online-payments
+  - link "https://www.westshoreslake.com/vote-here-1" [ref=e11]:
+    - /url: https://www.westshoreslake.com/vote-here-1
+  - link "https://www.westshoreslake.com/maps" [ref=e12]:
+    - /url: https://www.westshoreslake.com/maps
+  - link "https://www.westshoreslake.com/2026-hoa-board-candidates" [ref=e13]:
+    - /url: https://www.westshoreslake.com/2026-hoa-board-candidates
+  - link "https://www.westshoreslake.com/" [ref=e14]:
+    - /url: https://www.westshoreslake.com/
+  - link "https://www.westshoreslake.com/member-directory" [ref=e15]:
+    - /url: https://www.westshoreslake.com/member-directory
+  - link "https://www.westshoreslake.com/electronic-voting" [ref=e16]:
+    - /url: https://www.westshoreslake.com/electronic-voting
+  - link "https://www.westshoreslake.com/neighbors-only" [ref=e17]:
+    - /url: https://www.westshoreslake.com/neighbors-only
+  - link "https://www.westshoreslake.com/volunteers" [ref=e18]:
+    - /url: https://www.westshoreslake.com/volunteers
+  - link "https://www.westshoreslake.com/fishing-1" [ref=e19]:
+    - /url: https://www.westshoreslake.com/fishing-1
+  - link "https://www.westshoreslake.com/critical-documents" [ref=e20]:
+    - /url: https://www.westshoreslake.com/critical-documents
+  - link "https://www.westshoreslake.com/apartments-project-information" [ref=e21]:
+    - /url: https://www.westshoreslake.com/apartments-project-information
+  - link "https://www.westshoreslake.com/golf" [ref=e22]:
+    - /url: https://www.westshoreslake.com/golf
+  - link "https://www.westshoreslake.com/board-meeting-docs" [ref=e23]:
+    - /url: https://www.westshoreslake.com/board-meeting-docs
+  - link "https://www.westshoreslake.com/resident-organized-events" [ref=e24]:
+    - /url: https://www.westshoreslake.com/resident-organized-events
+  - link "https://www.westshoreslake.com/2023-meeting-docs" [ref=e25]:
+    - /url: https://www.westshoreslake.com/2023-meeting-docs
+  - link "https://www.westshoreslake.com/2024-meeting-docs" [ref=e26]:
+    - /url: https://www.westshoreslake.com/2024-meeting-docs
+  - link "https://www.westshoreslake.com/golf-carts" [ref=e27]:
+    - /url: https://www.westshoreslake.com/golf-carts
+  - link "https://www.westshoreslake.com/water-quality-reports" [ref=e28]:
+    - /url: https://www.westshoreslake.com/water-quality-reports
+  - link "https://www.westshoreslake.com/events-calendar" [ref=e29]:
+    - /url: https://www.westshoreslake.com/events-calendar
+  - link "https://www.westshoreslake.com/governance" [ref=e30]:
+    - /url: https://www.westshoreslake.com/governance
+  - img
+  - img
+  - link "West Shores" [ref=e31]:
+    - /url: /
+    - heading "West Shores" [ref=e32] [level=1]
+  - paragraph: Waterloo, Nebraska
+  - link [ref=e33]:
+    - /url: https://www.facebook.com/groups/2089561114686344
+  - link "Login" [ref=e34]:
+    - /url: javascript:void(0)
+  - text: hoaboard@westshoreslake.com
+  - link "Home" [ref=e35]:
+    - /url: /
+  - link "History" [ref=e36]:
+    - /url: /history
+  - link "Events Calendar" [ref=e37]:
+    - /url: /events-calendar
+  - link "Boating" [ref=e38]:
+    - /url: /boating-1
+  - link "Fishing" [ref=e39]:
+    - /url: /fishing-1
+  - link "Golf" [ref=e40]:
+    - /url: /golf
+  - link "Governance" [ref=e41]:
+    - /url: /governance
+  - link "Maps" [ref=e42]:
+    - /url: /maps
+  - link "Contact Us" [ref=e43]:
+    - /url: /contact-us
+  - heading "HOA Sponsored and Social Committee Events" [ref=e44] [level=3]
+  - paragraph: You must be logged in to the website to see the calendar.
+  - paragraph: Click on any calendar entry to learn more about it.
+  - paragraph: Do you have an event to add to our calendar? Contact us so we can make sure it's included.
+  - paragraph:
+    - strong:
+      - link "hoaboard@westshoreslake.com" [ref=e45]:
+        - /url: mailto:hoaboard@westshoreslake.com
+  - paragraph:
+    - text: Click
+    - link "here" [ref=e46]:
+      - /url: https://www.westshoreslake.com/past-events
+      - strong: here
+    - text: to view past event details.
+  - heading "West Shores Calendar" [ref=e47] [level=4]
+  - text: © Copyright 2025 | Site Provided by
+  - link "HOA Start" [ref=e48]:
+    - /url: https://hoastart.com/
+  - text: "|"
+  - link "Privacy Policy" [ref=e49]:
+    - /url: https://hoastart.com/privacy-policy/
+  - link [ref=e50] [nth=1]:
+    - /url: https://www.facebook.com/groups/2089561114686344

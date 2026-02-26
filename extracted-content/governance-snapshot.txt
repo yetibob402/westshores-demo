@@ -1,0 +1,193 @@
+- document:
+  - link "https://www.westshoreslake.com/contact-us" [ref=e1]:
+    - /url: https://www.westshoreslake.com/contact-us
+  - link "https://www.westshoreslake.com/latest-news" [ref=e2]:
+    - /url: https://www.westshoreslake.com/latest-news
+  - link "https://www.westshoreslake.com/elections-voting-and-outcomes" [ref=e3]:
+    - /url: https://www.westshoreslake.com/elections-voting-and-outcomes
+  - link "https://www.westshoreslake.com/boating-1" [ref=e4]:
+    - /url: https://www.westshoreslake.com/boating-1
+  - link "https://www.westshoreslake.com/lake-habitat-committee" [ref=e5]:
+    - /url: https://www.westshoreslake.com/lake-habitat-committee
+  - link "https://www.westshoreslake.com/board-members" [ref=e6]:
+    - /url: https://www.westshoreslake.com/board-members
+  - link "https://www.westshoreslake.com/past-events" [ref=e7]:
+    - /url: https://www.westshoreslake.com/past-events
+  - link "https://www.westshoreslake.com/history" [ref=e8]:
+    - /url: https://www.westshoreslake.com/history
+  - link "https://www.westshoreslake.com/villaowners" [ref=e9]:
+    - /url: https://www.westshoreslake.com/villaowners
+  - link "https://www.westshoreslake.com/online-payments" [ref=e10]:
+    - /url: https://www.westshoreslake.com/online-payments
+  - link "https://www.westshoreslake.com/vote-here-1" [ref=e11]:
+    - /url: https://www.westshoreslake.com/vote-here-1
+  - link "https://www.westshoreslake.com/maps" [ref=e12]:
+    - /url: https://www.westshoreslake.com/maps
+  - link "https://www.westshoreslake.com/2026-hoa-board-candidates" [ref=e13]:
+    - /url: https://www.westshoreslake.com/2026-hoa-board-candidates
+  - link "https://www.westshoreslake.com/" [ref=e14]:
+    - /url: https://www.westshoreslake.com/
+  - link "https://www.westshoreslake.com/member-directory" [ref=e15]:
+    - /url: https://www.westshoreslake.com/member-directory
+  - link "https://www.westshoreslake.com/electronic-voting" [ref=e16]:
+    - /url: https://www.westshoreslake.com/electronic-voting
+  - link "https://www.westshoreslake.com/neighbors-only" [ref=e17]:
+    - /url: https://www.westshoreslake.com/neighbors-only
+  - link "https://www.westshoreslake.com/volunteers" [ref=e18]:
+    - /url: https://www.westshoreslake.com/volunteers
+  - link "https://www.westshoreslake.com/fishing-1" [ref=e19]:
+    - /url: https://www.westshoreslake.com/fishing-1
+  - link "https://www.westshoreslake.com/critical-documents" [ref=e20]:
+    - /url: https://www.westshoreslake.com/critical-documents
+  - link "https://www.westshoreslake.com/apartments-project-information" [ref=e21]:
+    - /url: https://www.westshoreslake.com/apartments-project-information
+  - link "https://www.westshoreslake.com/golf" [ref=e22]:
+    - /url: https://www.westshoreslake.com/golf
+  - link "https://www.westshoreslake.com/board-meeting-docs" [ref=e23]:
+    - /url: https://www.westshoreslake.com/board-meeting-docs
+  - link "https://www.westshoreslake.com/resident-organized-events" [ref=e24]:
+    - /url: https://www.westshoreslake.com/resident-organized-events
+  - link "https://www.westshoreslake.com/2023-meeting-docs" [ref=e25]:
+    - /url: https://www.westshoreslake.com/2023-meeting-docs
+  - link "https://www.westshoreslake.com/2024-meeting-docs" [ref=e26]:
+    - /url: https://www.westshoreslake.com/2024-meeting-docs
+  - link "https://www.westshoreslake.com/golf-carts" [ref=e27]:
+    - /url: https://www.westshoreslake.com/golf-carts
+  - link "https://www.westshoreslake.com/water-quality-reports" [ref=e28]:
+    - /url: https://www.westshoreslake.com/water-quality-reports
+  - link "https://www.westshoreslake.com/events-calendar" [ref=e29]:
+    - /url: https://www.westshoreslake.com/events-calendar
+  - link "https://www.westshoreslake.com/governance" [ref=e30]:
+    - /url: https://www.westshoreslake.com/governance
+  - img
+  - img
+  - link "West Shores" [ref=e31]:
+    - /url: /
+    - heading "West Shores" [ref=e32] [level=1]
+  - paragraph: Waterloo, Nebraska
+  - link [ref=e33]:
+    - /url: https://www.facebook.com/groups/2089561114686344
+  - link "Login" [ref=e34]:
+    - /url: javascript:void(0)
+  - text: hoaboard@westshoreslake.com
+  - link "Home" [ref=e35]:
+    - /url: /
+  - link "History" [ref=e36]:
+    - /url: /history
+  - link "Events Calendar" [ref=e37]:
+    - /url: /events-calendar
+  - link "Boating" [ref=e38]:
+    - /url: /boating-1
+  - link "Fishing" [ref=e39]:
+    - /url: /fishing-1
+  - link "Golf" [ref=e40]:
+    - /url: /golf
+  - link "Governance" [ref=e41]:
+    - /url: /governance
+  - link "Maps" [ref=e42]:
+    - /url: /maps
+  - link "Contact Us" [ref=e43]:
+    - /url: /contact-us
+  - heading [level=3]
+  - paragraph:
+    - text: The lake lot and the 291 residential lots in the subdivision are subject to recorded Covenants running with the land. The Covenants authorized the creation of the West Shores Homeowners Association, Inc. (“HOA”), a non-profit Nebraska corporation, the members of which are the owners of the 242 residential lots numbered 1-242 that surround the lake lot and the 49 residential villas lots numbered 246-294 that are off-lake and overlook the outlot that includes the wetlands. The articles of incorporation and bylaws of the corporation are
+    - link "here" [ref=e44]:
+      - /url: https://www.westshoreslake.com/File/Get/78c42b23-3d9c-4b33-b40e-0f6f914c015b
+      - strong: here
+    - text: .
+  - paragraph:
+    - text: The HOA is governed by a seven member
+    - link "board of directors" [ref=e45]:
+      - /url: https://www.westshoreslake.com/board-members
+      - strong: board of directors
+    - text: ", who are elected to staggered seats with three year terms at the annual lot owners meeting each January. The upcoming election dates, deadlines and procedures appear on the Events page of this website. The 2025 board members are Carl Bortol, President; Ray Fehringer; Janet Pol, Treasurer; Don Hansen, Secretary; Jana Wheatley-Renault; Chris Tow and Karoly Mirnics. The board can be contacted at"
+    - strong:
+      - link "hoaboard@westshoreslake.com" [ref=e46]:
+        - /url: mailto:hoaboard@westshoreslake.com
+    - text: .
+  - paragraph: The 49 villas lots are additionally subject to the recorded Villas Covenants, which run with the the land associated with the villas lots. The Villas Covenants authorize the creation of the Villas at West Shores Homeowners Association, Inc. (“Villas Association”), a non-profit Nebraska corporation. Although, as of December 2021, the Villas Association has not filed articles of incorporation with the State of Nebraska or otherwise commenced operations, the Villas Covenants are still binding on the owners of the villas lots.
+  - paragraph: The marina lot and the 99-acre wetlands are owned by the HOA. The several commercial lots that surround the marina and the outlots on Chicago Street are owned by the original developer, Century Development Company, LLC, and are not part of the HOA.
+  - paragraph: "The streets, traffic islands and the perimeter land, including the park, are owned by the Sanitary Improvement District (“SID”) #453 and are not part of either HOA or subject to either HOA’s covenants. The SID is funded through each lot owner’s regular annual property tax assessements paid to Douglas County. The SID operations and its board are distinct from the HOA. For more information regarding the SID, see below."
+  - heading "COVENANTS" [ref=e47] [level=3]
+  - paragraph: Covenants govern construction and other matters on the 291 residential lots numbered 1-242 and 246-294 and the certain rights and obligations of the members with regard to the lake.
+  - paragraph: The HOA collects annual dues, which for 2026 are $800 per lot, cover expenses such as lake patrol, lake maintenance, fish stocking, community events, gas pump repairs, insurance and Independence Day fireworks.
+  - paragraph:
+    - text: Here are links to PDF’s of the amended and restated
+    - strong:
+      - link "Covenants" [ref=e48]:
+        - /url: https://www.westshoreslake.com/File/Get/ff1a3cd8-b5c4-408d-a4bc-9ef18b355148
+    - text: recorded 1/18/2013, the
+    - strong:
+      - link "First Amendment" [ref=e49]:
+        - /url: https://www.westshoreslake.com/File/Get/a4110f7c-6aec-4c7b-8563-0664964b7b58
+    - text: relating to setbacks, fences, and Villa pools, and the
+    - strong:
+      - link "Second Amendment" [ref=e50]:
+        - /url: https://www.westshoreslake.com/File/Get/4c810b2e-2914-40aa-b7c3-cbdd429291fd
+    - text: relating to electronic voting. A
+    - strong: Third Amendment
+    - text: passed on December 16, 2020, and eliminated the notarization requirement for electronic voter designee forms used in voting, as further discussed below. A
+    - strong: Fourth Amendment
+    - text: passed on August 23, 2023, allowing ATV’s, utility vehicles and golf carts on subdivision streets, subject to HOA requirements and state law. A
+    - strong:
+      - link "Fifth Amendment" [ref=e51]:
+        - /url: https://www.westshoreslake.com/File/Get/0baabffb-631d-48d7-b9d9-2d39c4d6a530
+    - text: passed on December 1, 2024, prohibiting short term rental by establishing a minimum rental term of six months and limiting use of the lake by renters.
+  - paragraph:
+    - text: The 49 villas lots, numbered 246-294, are subject to the West Shores Lake and Homeowners Association Covenants and additionally to the
+    - link "Villas Covenants" [ref=e52]:
+      - /url: https://www.westshoreslake.com/File/Get/7256c121-1768-447f-ac45-d551f31a653d
+      - strong: Villas Covenants
+    - text: recorded 6/29/2015. These covenants specific to the Villa properties govern lawn care, snow removal on the villas lots, the right of a villas lot owner to use the lake, and the right of a villas lot owner to purchase a boat slip in the West Shores marina from Century Development. As the Villas Association does not currently provide lawn care or snow removal services to villas lots, the Villas Association does not assess separate dues for those services.
+  - heading "LAKE RULES" [ref=e53] [level=3]
+  - paragraph:
+    - text: The Covenants authorize the creation of Lake Rules regarding use of the lake, which include boat length and motor size limits, distance requirements for wake surfing and a prohibition on jet skis. The Lake Rules were amended and restated in on January 21, 2013, and were the subject of a First Amendment to the Lake Rules passed on May 15, 2020. See the
+    - link "Boating" [ref=e54] [nth=1]:
+      - /url: http://www.westshoreslake.com/boating-1
+    - text: page for more information.
+  - paragraph:
+    - strong: RESIDENTIAL RENTALS
+  - paragraph:
+    - text: "The covenants, in the Fifth Amendment, expressly limit residential rental as follows: \""
+    - emphasis: Short-term rentals are not allowed. Properties may be rented, exchanged, bartered, or inhabited by individuals not related to the owner only for a continuous term of at least 6 months. Renters must abide by all Covenant and Lake Rules and are not allowed to use any motorized watercraft on the lake. The owner’s watercraft must be stored off-site for the duration of the rental period. Renters have no right to use of the lake, except those renters of lakefront property may use the swimming zone directly in front of the rented property, limited by an imaginary line extending the side property lines into the lake. Lease duration and contact information of renter must be disclosed to the HOA Board before the occupancy by the renter. Owners are responsible for the compliance of renters with all covenants and lake rules. Violation of this covenant will result in an owner fine, levied at the discretion of the HOA board, up to $5,000/month per each occurrence.
+    - text: "\""
+  - heading "VOTING & AMENDMENTS" [ref=e55] [level=3]
+  - paragraph:
+    - text: Voting for HOA director elections, covenant amendments and Lake Rules amendments, is conducted by electronic voting. Covenant amendments require approval by 75% (219) of the 291 residential lots. Lake Rules amendments require approval by 50% (146) of the 291 residential lots. Each lot has one vote. To vote electronically, a lot owner must have submitted an
+    - link "electronic voter desigee form" [ref=e56]:
+      - /url: https://www.westshoreslake.com/File/Get/2624852b-53b6-4f5c-a747-6a34602dfbdd
+      - strong: electronic voter desigee form
+    - text: to the HOA identifying the one person who is authorized to cast the vote associated with the lot.
+  - paragraph: Villa Covenant amendments require approval by over 90% (45) of the 49 villa lots until 5/15/2035, after which Villa Covenant amendments require approval by 75% (38) of the 49 villa lots. Century Development had voting rights and superceding powers of amendment described therein terminated on 1/1/2025.
+  - 'heading "SID #453" [level=3]'
+  - paragraph: "The streets, traffic islands and the perimeter land, including the park, are owned by the Sanitary Improvement District (“SID”) #453. The SID is funded through each lot owner’s regular annual property tax assessements paid to Douglas County. The SID operations and its board are separate from the HOA."
+  - paragraph:
+    - text: "The election of the Board of Trustees of SID #453 occurs via a mail in ballot administered by the Douglas County Election Commission. The various dates for mailing of the notice of election, the candidate filing deadlines and that ballot distribution and return dates are posted"
+    - strong:
+      - link "here" [ref=e57] [nth=1]:
+        - /url: https://www.votedouglascounty.com/deadlines.aspx
+    - text: ". The Trustees are elected for two year terms in two classes, with 3 seats in the residential only class and 2 seats in the all property owners class. Gary Demmel, Bob Edick Warren Hanson, Vince Kirby and Dean List serve on the SID #453 board."
+  - paragraph:
+    - text: Our total valuation at West Shores went from $291 million in 2023 to $364 million in 2024. The consolidated tax levy (County, School District, SID, etc.) applied to the assessed value of property in West Shores for tax year 2024, paid in 2025, is 0.2975%. This means from 2012 to 2024, the tax rate per $100,000 dollar valuation has gone from $800 to $298. Even though our mill levy continues to drop, your total real estate tax bill has increased. This is because the rest of the entities that tax us make up about 80% of our real estate taxes and they have taken advantage of our rising valuations. Detailed budget information for the current year, as well as past years, is available on the
+    - strong:
+      - link "Douglas County website" [ref=e58]:
+        - /url: https://www.douglascountyclerk.org/approved-budgets-for-all-douglas-county-political-subdivisions?view=article&id=286
+    - text: .
+  - heading "PLANNING AN IMPOVEMENT TO YOUR PROPERTY?" [ref=e59] [level=3]:
+    - strong: PLANNING AN IMPOVEMENT TO YOUR PROPERTY?
+  - paragraph:
+    - strong: Construction is strictly regulated on our lake.
+    - text: An owner desiring to erect an improvement to any lot shall deliver two sets of construction plans, landscaping plans and site plans with grade elevations showing drainage to the ORB with a $250.00 nonrefundable review fee and a $2,500.00 construction impact deposit made payable to the West Shores Homeowners Association.
+    - strong:
+      - text: Please, review and abide by the ALL the rules laid out in the Covenants Article I, which can be
+      - link "downloaded form here" [ref=e60]:
+        - /url: https://www.westshoreslake.com/File/Get/356375b3-8b07-4aaa-91b4-a30f8062d9e3
+      - text: .
+  - text: © Copyright 2025 | Site Provided by
+  - link "HOA Start" [ref=e61]:
+    - /url: https://hoastart.com/
+  - text: "|"
+  - link "Privacy Policy" [ref=e62]:
+    - /url: https://hoastart.com/privacy-policy/
+  - link [ref=e63] [nth=1]:
+    - /url: https://www.facebook.com/groups/2089561114686344

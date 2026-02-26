@@ -1,0 +1,148 @@
+- document:
+  - link "https://www.westshoreslake.com/contact-us" [ref=e1]:
+    - /url: https://www.westshoreslake.com/contact-us
+  - link "https://www.westshoreslake.com/latest-news" [ref=e2]:
+    - /url: https://www.westshoreslake.com/latest-news
+  - link "https://www.westshoreslake.com/elections-voting-and-outcomes" [ref=e3]:
+    - /url: https://www.westshoreslake.com/elections-voting-and-outcomes
+  - link "https://www.westshoreslake.com/boating-1" [ref=e4]:
+    - /url: https://www.westshoreslake.com/boating-1
+  - link "https://www.westshoreslake.com/lake-habitat-committee" [ref=e5]:
+    - /url: https://www.westshoreslake.com/lake-habitat-committee
+  - link "https://www.westshoreslake.com/board-members" [ref=e6]:
+    - /url: https://www.westshoreslake.com/board-members
+  - link "https://www.westshoreslake.com/past-events" [ref=e7]:
+    - /url: https://www.westshoreslake.com/past-events
+  - link "https://www.westshoreslake.com/history" [ref=e8]:
+    - /url: https://www.westshoreslake.com/history
+  - link "https://www.westshoreslake.com/villaowners" [ref=e9]:
+    - /url: https://www.westshoreslake.com/villaowners
+  - link "https://www.westshoreslake.com/online-payments" [ref=e10]:
+    - /url: https://www.westshoreslake.com/online-payments
+  - link "https://www.westshoreslake.com/vote-here-1" [ref=e11]:
+    - /url: https://www.westshoreslake.com/vote-here-1
+  - link "https://www.westshoreslake.com/maps" [ref=e12]:
+    - /url: https://www.westshoreslake.com/maps
+  - link "https://www.westshoreslake.com/2026-hoa-board-candidates" [ref=e13]:
+    - /url: https://www.westshoreslake.com/2026-hoa-board-candidates
+  - link "https://www.westshoreslake.com/" [ref=e14]:
+    - /url: https://www.westshoreslake.com/
+  - link "https://www.westshoreslake.com/member-directory" [ref=e15]:
+    - /url: https://www.westshoreslake.com/member-directory
+  - link "https://www.westshoreslake.com/electronic-voting" [ref=e16]:
+    - /url: https://www.westshoreslake.com/electronic-voting
+  - link "https://www.westshoreslake.com/neighbors-only" [ref=e17]:
+    - /url: https://www.westshoreslake.com/neighbors-only
+  - link "https://www.westshoreslake.com/volunteers" [ref=e18]:
+    - /url: https://www.westshoreslake.com/volunteers
+  - link "https://www.westshoreslake.com/fishing-1" [ref=e19]:
+    - /url: https://www.westshoreslake.com/fishing-1
+  - link "https://www.westshoreslake.com/critical-documents" [ref=e20]:
+    - /url: https://www.westshoreslake.com/critical-documents
+  - link "https://www.westshoreslake.com/apartments-project-information" [ref=e21]:
+    - /url: https://www.westshoreslake.com/apartments-project-information
+  - link "https://www.westshoreslake.com/golf" [ref=e22]:
+    - /url: https://www.westshoreslake.com/golf
+  - link "https://www.westshoreslake.com/board-meeting-docs" [ref=e23]:
+    - /url: https://www.westshoreslake.com/board-meeting-docs
+  - link "https://www.westshoreslake.com/resident-organized-events" [ref=e24]:
+    - /url: https://www.westshoreslake.com/resident-organized-events
+  - link "https://www.westshoreslake.com/2023-meeting-docs" [ref=e25]:
+    - /url: https://www.westshoreslake.com/2023-meeting-docs
+  - link "https://www.westshoreslake.com/2024-meeting-docs" [ref=e26]:
+    - /url: https://www.westshoreslake.com/2024-meeting-docs
+  - link "https://www.westshoreslake.com/golf-carts" [ref=e27]:
+    - /url: https://www.westshoreslake.com/golf-carts
+  - link "https://www.westshoreslake.com/water-quality-reports" [ref=e28]:
+    - /url: https://www.westshoreslake.com/water-quality-reports
+  - link "https://www.westshoreslake.com/events-calendar" [ref=e29]:
+    - /url: https://www.westshoreslake.com/events-calendar
+  - link "https://www.westshoreslake.com/governance" [ref=e30]:
+    - /url: https://www.westshoreslake.com/governance
+  - img
+  - img
+  - link "West Shores" [ref=e31]:
+    - /url: /
+    - heading "West Shores" [ref=e32] [level=1]
+  - paragraph: Waterloo, Nebraska
+  - link [ref=e33]:
+    - /url: https://www.facebook.com/groups/2089561114686344
+  - link "Login" [ref=e34]:
+    - /url: javascript:void(0)
+  - text: hoaboard@westshoreslake.com
+  - link "Home" [ref=e35]:
+    - /url: /
+  - link "History" [ref=e36]:
+    - /url: /history
+  - link "Events Calendar" [ref=e37]:
+    - /url: /events-calendar
+  - link "Boating" [ref=e38]:
+    - /url: /boating-1
+  - link "Fishing" [ref=e39]:
+    - /url: /fishing-1
+  - link "Golf" [ref=e40]:
+    - /url: /golf
+  - link "Governance" [ref=e41]:
+    - /url: /governance
+  - link "Maps" [ref=e42]:
+    - /url: /maps
+  - link "Contact Us" [ref=e43]:
+    - /url: /contact-us
+  - heading [level=3]
+  - paragraph: "In addition to construction matters, the Covenants address certain major issues pertaining to lot owner’s right to use of the HOA’s lake. For example: Inboard, Inboard/Outboard, and Outboard motors are allowed. Air boats, Jet Powered Boats, Jet Powered Watercraft classified as Jet Skis, Wave Runners or any Jet Powered Personal Watercraft of any other brand, make or model, and Boats with above water exhaust systems are prohibited. Article III, paragraph 2(c)."
+  - paragraph: All boat docks . . . shall be within the Owner’s side lot alignment as it extends to the 40 foot maximum allowed into the lake from the Owner’s Lake Lot Line. [Boat lifts may have] white, tan or gray canopy covers, or a canopy color approved by the Association. Plans for docks, and for boat lifts, showing size, materials, colors and configuration, must be approved by the Design Review Board or Association prior to installation. Article 1, paragraph 29.
+  - paragraph: Boat Houses are prohibited. Article 1, paragraph 30.
+  - paragraph: An amendment of any of the foregoing provisions, like all Covenant amendments, would require approval of 75% of lot owners.
+  - paragraph:
+    - text: The Covenants go on to authorize the adoption of Lake Rules to further govern boat types, lengths, motor sizes and safety concerns on the lake. Here is a link to a PDF of the amended and restated
+    - link "Lake Rules" [ref=e44]:
+      - /url: https://www.westshoreslake.com/File/Get/84aad5f8-cab0-4586-af76-feb64f55dc78
+      - strong: Lake Rules
+    - text: in effect as of October of 2023. Unlike the Covenants, Amendments of Lake Rules require approval of only 50% of lot owners.
+  - paragraph: "The provisions include:"
+  - paragraph:
+    - strong: "Article V Section J:"
+    - text: Boats shall only be equipped with the factory standard options for wake enhancement installed at the time of manufacture. Additional modifications, such as supplemental water bladders, water tanks and weights, or added external blades, fins, wedges or other wake shaping devices, shall not be installed or attached to any boat.
+  - paragraph:
+    - strong: "Article V Section D:"
+    - text: All boats and skiers, etc. must remain a minimum of 90 feet from the shore and/or boat lifts and docks [and, since docks are typically 40 feet into the water, the usual minimum is 130' feet from shore]. Boats utilizing wake enhancing devices must remain a minimum of 165 feet from shore whenever feasible. In certain narrow "choke" points on the lake, there is not sufficient width for two boats traveling in opposite directions to maintain the required 90 feet between boats and still remain a minimum of 165 feet from each shore, and, in those circumstances, the 165 foot rule shall not apply and boats and skiers must instead remain a minimum of 90 feet from shore and/or boat lifts or dock as required by covenants and Nebraska law.
+  - paragraph: "Lake Rules Section V, Paragraph k:"
+  - paragraph:
+    - strong: "Pontoon Boats:"
+    - text: Maximum advertised manufacturer’s advertised pontoon length of 26 feet or less and a maximum of 150 HP.
+  - paragraph:
+    - strong: Inboard, Inboard/Outboard, Outboard and Deck boats
+    - text: . Maximum advertised manufacturer’s length of 23 feet or less not including the swim platform with a maximum of 450 HP. Limitations on specific types of watercraft set forth elsewhere in the Lake Rules take precedence over this provision.
+  - paragraph:
+    - strong: Boards.
+    - text: Paddleboards, Surfboards, Hydroplanes and similar watercraft shall not have motors or jets.
+  - paragraph:
+    - strong: Sail Boats
+    - text: . Maximum advertised manufacturer’s length of 22 feet.
+  - paragraph:
+    - text: This is an unofficial summary. Please be sure to consult the full text of the
+    - strong:
+      - link "Covenants" [ref=e45]:
+        - /url: https://www.westshoreslake.com/File/Get/ff1a3cd8-b5c4-408d-a4bc-9ef18b355148
+    - text: and
+    - link "Lake Rules" [ref=e46] [nth=1]:
+      - /url: https://www.westshoreslake.com/File/Get/84aad5f8-cab0-4586-af76-feb64f55dc78
+      - strong: Lake Rules
+    - text: .
+  - heading [level=4]
+  - paragraph:
+    - img
+  - heading [level=4]
+  - paragraph: Map showing 40’ dock limit, 130’ (dock plus 90’ state requirement), and 165’ (130’ plus 35’ for wake enhancement).
+  - heading [level=4]
+  - paragraph
+  - heading [level=4]
+  - paragraph: Lot Numbers & Boating Direction
+  - text: © Copyright 2025 | Site Provided by
+  - link "HOA Start" [ref=e47]:
+    - /url: https://hoastart.com/
+  - text: "|"
+  - link "Privacy Policy" [ref=e48]:
+    - /url: https://hoastart.com/privacy-policy/
+  - link [ref=e49] [nth=1]:
+    - /url: https://www.facebook.com/groups/2089561114686344

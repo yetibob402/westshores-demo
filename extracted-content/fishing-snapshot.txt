@@ -1,0 +1,222 @@
+- document:
+  - link "https://www.westshoreslake.com/contact-us" [ref=e1]:
+    - /url: https://www.westshoreslake.com/contact-us
+  - link "https://www.westshoreslake.com/latest-news" [ref=e2]:
+    - /url: https://www.westshoreslake.com/latest-news
+  - link "https://www.westshoreslake.com/elections-voting-and-outcomes" [ref=e3]:
+    - /url: https://www.westshoreslake.com/elections-voting-and-outcomes
+  - link "https://www.westshoreslake.com/boating-1" [ref=e4]:
+    - /url: https://www.westshoreslake.com/boating-1
+  - link "https://www.westshoreslake.com/lake-habitat-committee" [ref=e5]:
+    - /url: https://www.westshoreslake.com/lake-habitat-committee
+  - link "https://www.westshoreslake.com/board-members" [ref=e6]:
+    - /url: https://www.westshoreslake.com/board-members
+  - link "https://www.westshoreslake.com/past-events" [ref=e7]:
+    - /url: https://www.westshoreslake.com/past-events
+  - link "https://www.westshoreslake.com/history" [ref=e8]:
+    - /url: https://www.westshoreslake.com/history
+  - link "https://www.westshoreslake.com/villaowners" [ref=e9]:
+    - /url: https://www.westshoreslake.com/villaowners
+  - link "https://www.westshoreslake.com/online-payments" [ref=e10]:
+    - /url: https://www.westshoreslake.com/online-payments
+  - link "https://www.westshoreslake.com/vote-here-1" [ref=e11]:
+    - /url: https://www.westshoreslake.com/vote-here-1
+  - link "https://www.westshoreslake.com/maps" [ref=e12]:
+    - /url: https://www.westshoreslake.com/maps
+  - link "https://www.westshoreslake.com/2026-hoa-board-candidates" [ref=e13]:
+    - /url: https://www.westshoreslake.com/2026-hoa-board-candidates
+  - link "https://www.westshoreslake.com/" [ref=e14]:
+    - /url: https://www.westshoreslake.com/
+  - link "https://www.westshoreslake.com/member-directory" [ref=e15]:
+    - /url: https://www.westshoreslake.com/member-directory
+  - link "https://www.westshoreslake.com/electronic-voting" [ref=e16]:
+    - /url: https://www.westshoreslake.com/electronic-voting
+  - link "https://www.westshoreslake.com/neighbors-only" [ref=e17]:
+    - /url: https://www.westshoreslake.com/neighbors-only
+  - link "https://www.westshoreslake.com/volunteers" [ref=e18]:
+    - /url: https://www.westshoreslake.com/volunteers
+  - link "https://www.westshoreslake.com/fishing-1" [ref=e19]:
+    - /url: https://www.westshoreslake.com/fishing-1
+  - link "https://www.westshoreslake.com/critical-documents" [ref=e20]:
+    - /url: https://www.westshoreslake.com/critical-documents
+  - link "https://www.westshoreslake.com/apartments-project-information" [ref=e21]:
+    - /url: https://www.westshoreslake.com/apartments-project-information
+  - link "https://www.westshoreslake.com/golf" [ref=e22]:
+    - /url: https://www.westshoreslake.com/golf
+  - link "https://www.westshoreslake.com/board-meeting-docs" [ref=e23]:
+    - /url: https://www.westshoreslake.com/board-meeting-docs
+  - link "https://www.westshoreslake.com/resident-organized-events" [ref=e24]:
+    - /url: https://www.westshoreslake.com/resident-organized-events
+  - link "https://www.westshoreslake.com/2023-meeting-docs" [ref=e25]:
+    - /url: https://www.westshoreslake.com/2023-meeting-docs
+  - link "https://www.westshoreslake.com/2024-meeting-docs" [ref=e26]:
+    - /url: https://www.westshoreslake.com/2024-meeting-docs
+  - link "https://www.westshoreslake.com/golf-carts" [ref=e27]:
+    - /url: https://www.westshoreslake.com/golf-carts
+  - link "https://www.westshoreslake.com/water-quality-reports" [ref=e28]:
+    - /url: https://www.westshoreslake.com/water-quality-reports
+  - link "https://www.westshoreslake.com/events-calendar" [ref=e29]:
+    - /url: https://www.westshoreslake.com/events-calendar
+  - link "https://www.westshoreslake.com/governance" [ref=e30]:
+    - /url: https://www.westshoreslake.com/governance
+  - img
+  - img
+  - link "West Shores" [ref=e31]:
+    - /url: /
+    - heading "West Shores" [ref=e32] [level=1]
+  - paragraph: Waterloo, Nebraska
+  - link [ref=e33]:
+    - /url: https://www.facebook.com/groups/2089561114686344
+  - link "Login" [ref=e34]:
+    - /url: javascript:void(0)
+  - text: hoaboard@westshoreslake.com
+  - link "Home" [ref=e35]:
+    - /url: /
+  - link "History" [ref=e36]:
+    - /url: /history
+  - link "Events Calendar" [ref=e37]:
+    - /url: /events-calendar
+  - link "Boating" [ref=e38]:
+    - /url: /boating-1
+  - link "Fishing" [ref=e39]:
+    - /url: /fishing-1
+  - link "Golf" [ref=e40]:
+    - /url: /golf
+  - link "Governance" [ref=e41]:
+    - /url: /governance
+  - link "Maps" [ref=e42]:
+    - /url: /maps
+  - link "Contact Us" [ref=e43]:
+    - /url: /contact-us
+  - heading [level=3]
+  - paragraph:
+    - img
+  - heading [level=4]
+  - heading [level=3]
+  - heading "FISHING OVERVIEW" [ref=e44] [level=3]:
+    - strong: FISHING OVERVIEW
+  - heading "IMPORTANT UPDATES" [ref=e45] [level=5]:
+    - strong: IMPORTANT UPDATES
+  - paragraph: "05/09/2022: Electroshocking survey completed and the collected rough fish were disposed. Twelve species were identified, consisting of game fish: largemouth bass, bluegill, white and black crappie, walleye, wiper and catfish, as well as rough fish: river carpsucker, buffalo, long & short nosed gar, common carp and gizzard shad."
+  - paragraph: "12/20/2020: Lake Habitat & Health Committee announces revised walleye limit of 2 day / 4 possession per lot in the 15” to 19” slot. Catch and release all walleye above or below the slot. Limits on other species shown below."
+  - paragraph:
+    - strong: FISHING REGULATIONS
+  - paragraph:
+    - text: "West Shores is a private lake that is owned, stocked and maintained by the West Shores Home Owners Association, Inc. Pursuant to Article I of our Lake Rules: \"A guest must be"
+    - strong: accompanied
+    - text: by the [Association] member or a resident member of the family when using any of the common areas (that is, the lake)." Guest boats are prohibited as they present a serious risk of invasive species contamination.
+  - paragraph:
+    - text: Trespassers may be reported to the Douglas County Sheriff and cited for criminal trespassing, a second degree misdemeanor under
+    - strong:
+      - link "NRS 28-521" [ref=e46]:
+        - /url: https://nebraskalegislature.gov/laws/statutes.php?statute=28-521
+    - text: ", the penalties for which are set forth in"
+    - link "NRS 28-106." [ref=e47]:
+      - /url: https://nebraskalegislature.gov/laws/statutes.php?statute=28-106
+      - strong: NRS 28-106
+      - text: .
+  - paragraph: Since the lake has outflow that reaches the Elkhorn river, Nebraska state regulations relating to fishing, including licensure and daily catch limits (per day/possession), are applicable. The West Shores Lake Habitat & Health Committee recommends that daily catch limits be applied on a per lot basis (see limits per fish species below). Additional fish identification tips can be found on the Wikipedia links.
+  - heading "FISH STOCKING" [ref=e48] [level=3]:
+    - strong: FISH STOCKING
+  - paragraph: 04/2017 1,000 Bluegill @ $1.20 = $1,200 09/2017 1,000 6”-8” Wipers @ $2.20 = $2,200 11/2017 2,000 6-8” Walleye @ $2.40 = $4,800 (Total 2017 $8,200)
+  - paragraph: "05/2018 1,287 4”-6” Wiper @ $1.71 = $2,300 10/2018 1,000 6”-8” Wiper @ $2.20 = $2,000 11/2018 2,000 6”-8” Walleye @ $2.40 = $4,800 (Total 2018 $9,200) 10/2019 1,000 6”-8” Walleye @ $2.30 = $2,300 10/2019 2,500 4-6” Bluegill @ $1.35 = $3,375 11/2019 100 10”-14” Tiger Muskie @ $24.00 = $2,400 (Total 2019: $8,075)"
+  - paragraph: "03/2020 2,500 4”-6” Bluegill @ $1.35 = $3,375 11/2020 2,500 4”-6” Bluegill @ $1.45 = $3,625 11/2020 2,000 6”-8” Walleye @ $2.40 = $4,800* (Total 2020: $11,800) (*Paid in 2021) 10/2021 3,000 6”-8” Walleye @ $2.33 = $7,000 (Total 2021: $7,000)"
+  - paragraph: "10/2022 1,500 6”-8” Walleye @ $2.35 = $3,525* 10/2022 3,000 4”-6” Yellow Perch @ $1.35 = $4,050* (Total 2022: $7,575, *paid in 2023)"
+  - paragraph: "11/2023 5-8” 3,000 Walleye @ $2.50 = $ 7,500 (Total 2023: $ 7,500)"
+  - heading "GAME FISH" [ref=e49] [level=3]:
+    - strong: GAME FISH
+  - paragraph: Game fish are fish pursued by recreational anglers. The term can refer to freshwater or saltwater fish. Game fish can be eaten after being caught. The species of fish pursued by anglers varies with geography. Some fish are sought for their value as food, while others are pursued for their fighting abilities or for the difficulty of pursuit.
+  - paragraph: Big-game fish are bony saltwater fish such as tuna, tarpon, and billfish (sailfish, marlin and swordfish). In North America, anglers fish also for common snook, redfish, salmon, trout, bass, pike, catfish of several species, walleye, and muskellunge.
+  - paragraph:
+    - text: The smallest fish routinely sought by anglers are called panfish, because they can fit in a normal cooking pan. Examples are crappies, perch, rock bass, bluegills, and other sunfish. Panfish are often sought by younger anglers, at least partly due to the relative ease with which they can be caught. The foregoing description was excerpted from
+    - strong:
+      - link "Wikipedia" [ref=e50]:
+        - /url: https://en.wikipedia.org/wiki/Game_fish
+    - text: .
+  - paragraph:
+    - strong: WHITE CRAPPIE
+    - strong: "& BLACK CRAPPIE"
+    - text: "- Daily catch limit is 15 per lot per day and the possession limit (includes your freezer) is 30 per lot. White and Black Crappie are catch and release until after spring spawn (May 10). White crappie are also known as Goldring and Silver Perch"
+    - strong: .
+    - strong:
+      - link "Wikipedia" [ref=e51] [nth=1]:
+        - /url: https://en.wikipedia.org/wiki/White_crappie
+  - paragraph:
+    - strong: WALLEYE
+    - text: "- Daily catch limit is 2 per lot per day and the possession limit (includes your freezer) is 4 per lot for Walleye in the 15-19” slot, measured tip of nose to tip of tail, so catch & release for less than 15” or greater than 19”. Walleye are also called yellow pike. The name comes from the fact that the fish's eyes point outward, as if looking at the walls. West Shores stocks Walleye annually."
+    - strong:
+      - link "Wikipedia" [ref=e52] [nth=2]:
+        - /url: https://en.wikipedia.org/wiki/Walleye
+  - paragraph:
+    - strong: BLUEGILL
+    - text: Catch & release only. The bluegill are sometimes referred to as "bream", "brim", "sunny", or "copper nose" and are a member of the sunfish family. Bluegills can grow up to 12 inches long and about 4 1⁄2 pounds. They typically have a very distinctive coloring, with deep blue and purple on the face and gill cover, dark olive-colored bands down the side, and a fiery orange to yellow belly. The fish play a key role in the food chain, and are prey for bass, other sunfish, northern pike, walleye, and muskies. West Shores stocks these fish most years.
+    - strong:
+      - link "Wikipedia" [ref=e53] [nth=3]:
+        - /url: https://en.wikipedia.org/wiki/Bluegill
+  - paragraph:
+    - strong: LAGEMOUTH BASS
+    - text: "- Catch & release only. Largemouth Bass is known by a variety of regional names, such as the widemouth bass, bigmouth bass, black bass, bucketmouth, largies, Potter's fish, Florida bass, Florida largemouth, green bass, bucketmouth bass, Green trout, gilsdorf bass, Oswego bass, LMB, and southern largemouth and (paradoxically) northern largemouth."
+    - strong:
+      - link "Wikipedia" [ref=e54] [nth=4]:
+        - /url: https://en.wikipedia.org/wiki/Largemouth_bass
+  - paragraph:
+    - strong: HYBRID STRIPED BASS aka WIPER
+    - text: "- Catch & release only. The Hybrid Striped Bass, also known as a Wiper or Whiterock Bass, is a hybrid between the Striped Bass and the White Bass . It can be distinguished from the Striped Bass by broken rather than solid horizontal stripes on the body. West Shores stocks these fish in some years."
+    - strong:
+      - link "Wikipedia" [ref=e55] [nth=5]:
+        - /url: https://en.wikipedia.org/wiki/Hybrid_striped_bass
+  - paragraph:
+    - strong: TIGER MUSKIE
+    - text: "- Catch & release only. Tiger Muskellunge are a sterile hybrid cross between Northern Pike and Muskellunge. It has a very elongated torpedo-like body. Its most notable feature is the grey-green vertical bars along its sides. West Shores stocked 100 of these fish in 2019."
+    - strong:
+      - link "Wikipedia" [ref=e56] [nth=6]:
+        - /url: https://en.wikipedia.org/wiki/Tiger_muskellunge
+  - paragraph:
+    - strong: CHANNEL CATFISH
+    - text: "- Channel Catfish daily catch limit is 5/20, however, please observe this on a per lot basis."
+    - link "Wikipedia" [ref=e57] [nth=7]:
+      - /url: https://en.wikipedia.org/wiki/Channel_catfish
+      - strong: Wikipedia
+  - heading [level=4]
+  - paragraph:
+    - emphasis: The Lake Habitat & Health Committee wants you to be aware of safe catch & release methods. Please check out this video to learn best practices regarding barbless hooks, holding fish for hook removal and releasing fish back into the water.
+  - iframe
+  - paragraph:
+    - strong: CATCH & RELEASE VIDEO
+  - heading [level=4]
+  - heading "ROUGH FISH" [ref=e58] [level=3]:
+    - strong: ROUGH FISH
+  - paragraph: Rough fish (or the slang trash fish or dirt fish) is a term used by U.S. state agencies and U.S. anglers to describe fish that are less desirable to sport anglers within a limited region. The term usually refers to larger fish species that are not commonly eaten, are too rare to be commonly encountered, or are not sought by anglers for sporting purposes.
+  - paragraph: There is no standard list of rough fishes. A fish that is considered a rough fish in one region may be considered a desirable game and food fish in another, often due to cultural differences or simply tradition. For example, the common carp is considered an undesirable rough fish in the United States and Australia, but is the premier game fish of Europe and the single most important food fish across most of Asia. In the US, the longnose gar is considered a rough fish and undesirable nuisance in Ohio, but in Louisiana, it is considered tasty by many locals. Due to the many small bones, it is rarely filleted, but instead is usually rolled with seasonings into "gar balls" and fried.
+  - paragraph:
+    - text: Some rough fishes are are exotic species that have been transplanted into North American waters from other continents either intentionally or unintentionally (for example, the common carp). Other rough fishes are native species that can be confused with carp because they look similar (bigmouth buffalo, smallmouth buffalo, and suckers). The foregoing rough fish description has been excerpted from
+    - strong:
+      - link "Wikipedia" [ref=e59] [nth=8]:
+        - /url: https://en.wikipedia.org/wiki/Rough_fish
+    - text: .
+  - paragraph:
+    - strong: Carp
+    - text: are classified as a rough fish and should always be removed from the lake and disposed of appropriately.
+    - strong:
+      - link "Wikipedia" [ref=e60] [nth=9]:
+        - /url: https://en.wikipedia.org/wiki/Carp
+  - paragraph:
+    - strong: Drum
+    - text: are classified as a rough fish and should always be removed from the lake and disposed of appropriately.
+  - paragraph:
+    - strong: Goldeneye
+    - text: ", also known as Skipjack Shad, are classified as a rough fish and should always be removed from the lake and disposed of appropriately."
+  - paragraph:
+    - strong: Shortnose Gar
+    - text: are classified as a rough fish and should always be removed from the lake and disposed of appropriately. BE CAREFUL NOT TO CONFUSE GAR WITH TIGER MUSKIE
+  - paragraph:
+    - strong: Longnose Gar
+    - text: are classified as a rough fish and should always be removed from the lake and disposed of appropriately.
+  - text: © Copyright 2025 | Site Provided by
+  - link "HOA Start" [ref=e61]:
+    - /url: https://hoastart.com/
+  - text: "|"
+  - link "Privacy Policy" [ref=e62]:
+    - /url: https://hoastart.com/privacy-policy/
+  - link [ref=e63] [nth=1]:
+    - /url: https://www.facebook.com/groups/2089561114686344
