@@ -40,55 +40,55 @@ export default function AboutPage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">Board of Directors</h2>
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">2025 Board of Directors</h2>
+            <p className="text-gray-600 mb-6">
+              Your Board members volunteer their time and talents to help make our organization its best. 
+              We're always interested in hearing your opinions and answering your questions.
+            </p>
             <div className="grid md:grid-cols-2 gap-6">
               <div className="bg-white border rounded-lg p-6">
-                <h3 className="text-lg font-bold text-primary-700 mb-1">Sarah Johnson</h3>
-                <p className="text-sm text-gray-600 mb-2">President</p>
-                <p className="text-sm text-gray-600">
-                  Sarah has been a West Shores resident since 2010 and brings 15 years of property management 
-                  experience to the board.
-                </p>
+                <h3 className="text-lg font-bold text-primary-700 mb-1">Carl Bortol</h3>
+                <p className="text-sm text-gray-600">President</p>
               </div>
               
               <div className="bg-white border rounded-lg p-6">
-                <h3 className="text-lg font-bold text-primary-700 mb-1">Michael Chen</h3>
-                <p className="text-sm text-gray-600 mb-2">Vice President</p>
-                <p className="text-sm text-gray-600">
-                  Michael is a retired civil engineer with a passion for community development and infrastructure 
-                  planning.
-                </p>
+                <h3 className="text-lg font-bold text-primary-700 mb-1">Janet Pol</h3>
+                <p className="text-sm text-gray-600">Treasurer</p>
               </div>
               
               <div className="bg-white border rounded-lg p-6">
-                <h3 className="text-lg font-bold text-primary-700 mb-1">Jennifer Martinez</h3>
-                <p className="text-sm text-gray-600 mb-2">Treasurer</p>
-                <p className="text-sm text-gray-600">
-                  Jennifer is a certified public accountant who ensures the community's financial health and 
-                  transparency.
-                </p>
+                <h3 className="text-lg font-bold text-primary-700 mb-1">Don Hansen</h3>
+                <p className="text-sm text-gray-600">Secretary</p>
               </div>
               
               <div className="bg-white border rounded-lg p-6">
-                <h3 className="text-lg font-bold text-primary-700 mb-1">David Thompson</h3>
-                <p className="text-sm text-gray-600 mb-2">Secretary</p>
-                <p className="text-sm text-gray-600">
-                  David manages community communications and maintains records for the association.
-                </p>
+                <h3 className="text-lg font-bold text-primary-700 mb-1">Ray Fehringer</h3>
+                <p className="text-sm text-gray-600">Board Member</p>
+              </div>
+
+              <div className="bg-white border rounded-lg p-6">
+                <h3 className="text-lg font-bold text-primary-700 mb-1">Jana Wheatley-Renault</h3>
+                <p className="text-sm text-gray-600">Board Member</p>
+              </div>
+
+              <div className="bg-white border rounded-lg p-6">
+                <h3 className="text-lg font-bold text-primary-700 mb-1">Chris Tow</h3>
+                <p className="text-sm text-gray-600">Board Member</p>
+              </div>
+
+              <div className="bg-white border rounded-lg p-6">
+                <h3 className="text-lg font-bold text-primary-700 mb-1">Karoly Mirnics</h3>
+                <p className="text-sm text-gray-600">Board Member</p>
               </div>
             </div>
           </section>
 
           <section>
             <h2 className="text-2xl font-bold text-gray-900 mb-4">Contact the Board</h2>
-            <p className="text-gray-600 leading-relaxed mb-4">
-              The Board of Directors meets on the first Tuesday of every month at 7:00 PM in the clubhouse. 
-              All residents are welcome to attend.
-            </p>
             <p className="text-gray-600 leading-relaxed">
               For questions or concerns, please email us at{' '}
-              <a href="mailto:board@westshoreslake.com" className="text-primary-600 hover:text-primary-700">
-                board@westshoreslake.com
+              <a href="mailto:hoaboard@westshoreslake.com" className="text-primary-600 hover:text-primary-700">
+                hoaboard@westshoreslake.com
               </a>
             </p>
           </section>
